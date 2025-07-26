@@ -5,6 +5,8 @@
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#16a34a",
+  "description": "Rate restaurants and bars with your friends!",
+  "id": "/",
   "icons": [
     {
       "src": "/icon-192.png",
